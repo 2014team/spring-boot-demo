@@ -1,3 +1,4 @@
 安装与使用 day01
 1、ecliplse集成插件参考https://www.roncoo.com/article/detail/124661
+2、生成demo1参考https://start.spring.io/
 
